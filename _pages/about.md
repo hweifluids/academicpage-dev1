@@ -19,7 +19,7 @@ redirect_from:
 
 **Note: HERE is the webpage for self-use only! Leave here and visit [published website](https://fluids.ac) unless you are DIRECTLY INVITED by huanxia. There are lots of incorrect and confidential information on the internal version of website!**
 
-Huanxia is an enrolled PhD student at the Aerodynamics Research Group at the School of MACE, University of Manchester **UoM** under supervision of Prof. Shan Zhong (FRAeS).
+Huanxia is an enrolled PhD student at the Aerodynamics Research Group at the School of MACE, University of Manchester (**UoM**) under supervision of Prof. Shan Zhong (FRAeS).
 
 Before joining UoM, he first graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (SAWTC). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis. He worked at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant. Later, he worked at TenFong Technology (Shenzhen) Co., Ltd. (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA solvers and related post-processors.
 
