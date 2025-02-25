@@ -53,7 +53,7 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 # 📝 Publications (incl. Accepted)
 <span class='anchor' id='-publications'></span>
 
-- Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/LOESS%20(PartD)%20-%20preprint.pdf), **Accepted** by *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025.
+- Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/LOESS%20(PartD)%20-%20preprint.pdf), **Accepted** by *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025 (Q3, IF=1.5).
 
 - Bowen Liang, **Huanxia Wei**, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Jida Men, " [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach](https://authors.elsevier.com/c/1kRgPin8Vru2T)," *Energy Conversion and Management*, 2025 (Top Journal, Q1, IF=9.9).
 
