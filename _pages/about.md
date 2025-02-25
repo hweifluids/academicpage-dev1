@@ -53,6 +53,8 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 # 📝 Publications (incl. Accepted)
 <span class='anchor' id='-publications'></span>
 
+- Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/LOESS%20(PartD)%20-%20preprint.pdf), **Accepted** by *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025.
+
 - Bowen Liang, **Huanxia Wei**, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Jida Men, " [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach](https://authors.elsevier.com/c/1kRgPin8Vru2T)," *Energy Conversion and Management*, 2025 (Top Journal, Q1, IF=9.9).
 
 - **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](https://doi.org/10.4271/2024-01-7014), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility* (EI Journal), **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024*, Best Paper.
@@ -86,8 +88,6 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 # 📝 Publications In Progess (Monitored Results)
 <span class='anchor' id='-publicationsIP'></span>
-
-- Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/LOESS%20(PartD)%20-%20preprint.pdf), **R1 Under Review**, *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025.
 
 - Menglei Li, Bin An, Mingbo Sun, Peibo Li, **Huanxia Wei**, Jie Sun, Yicun Wang, Huangwei Zhang\*, Supersonic Flame Stabilization in a Composite Combustor with Cavity and Backward-facing Step, **R0 Under Review**, *Combustion and Flame*, 2025.
 
