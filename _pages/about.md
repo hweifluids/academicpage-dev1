@@ -59,6 +59,8 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 - **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](https://doi.org/10.4271/2024-01-7014), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility* (EI Journal), **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024*, Best Paper.
 
+- Chundong Jia, Qing Jia, Yikun Wang, Jianyue Zhu\*, Yanlong Li, **Huanxia Wei**, [Research on Passive Turbulence Generator based on 3/4 Open Model Wind Tunnel](https://tjxb.ijournals.cn/jtuns/article/abstract/2024s1017), *Journal of Tongji University (Natural Science Edition)* (EI Journal), 2024.
+
 - Yunjie Yu, **Huanxia Wei**, Baojing Zheng\*, Dongfang Tian, Lingli He, 
 [Integrated Dynamic Analysis of Thin-Walled Beams: Coupled Bidirectional Bendong, Torsion, and Axial Vibrations Under Axial Loads](https://www.mdpi.com/2076-3417/14/23/11390/pdf), *Applied Sciences*, 2024 (Q1, IF=2.5).
 
