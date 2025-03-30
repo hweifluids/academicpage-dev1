@@ -93,27 +93,30 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 - Menglei Li, Bin An, Mingbo Sun, Peibo Li, **Huanxia Wei**, Jie Sun, Yicun Wang, Huangwei Zhang\*, Supersonic Flame Stabilization in a Composite Combustor with Cavity and Backward-facing Step, **R0 Under Review**, *Combustion and Flame*, 2025.
 
-- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/HST_Turbulence_PartOne_Forces.pdf), **R0 Under Review** to *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
+- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/HST_Turbulence_PartOne_Forces.pdf), **R0 Under Review**, *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
 
 - Bowen Liang, **Huanxia Wei**, Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Explainable Machine Learning for Fuel Cell Performance Prediction: A Comparative SHAP Analysis of Random Forest, XGBoost, SVM, and Neural Networks, **Submitted** to *Energy Conversion and Management*, 2025.
 
-- **Huanxia Wei**, Chao Xia\*, Yanhong Lu, Yajun Fan, Zhigang Yang, Dynamic Modes and Topology Switching in the Bi-stable Turbulent Wake Behind a Rectangular Flat-back Ahmed Bluff Body, **Preparing** for *Physics of Fluids*, 2025.
+- **Huanxia Wei**, Chao Xia\*, Yanhong Lu, Yajun Fan, Zhigang Yang, Dynamic Modes and Topology Switching in the Bi-stable Turbulent Wake Behind a Rectangular Flat-back Ahmed Bluff Body, **Preparing** for *Physics of Fluids*, 2025. (Must submit within April)
 
-- Fuqiang Luo, Sichong Huang, **Huanxia Wei\***, Qing Jia, Zhigang Yang, Wall-Modeled Large-Eddy Simulation of Hydrodynamic Noise from Turbulent Flow Past a Cylinder at subcritical Reynolds number: Hydraulics, Underwater Acoustics, and Surface Mesh Mismatch, **Preparing** for *Physics of Fluids*, 2025.
+- Fuqiang Luo, Sichong Huang, **Huanxia Wei\***, Qing Jia, Zhigang Yang, Wall-Modeled Large-Eddy Simulation of Hydrodynamic Noise from Turbulent Flow Past a Cylinder at subcritical Reynolds number: Hydrodynamics, Underwater Acoustics, and Surface Mesh Mismatch, **Preparing** for *Physics of Fluids*, 2025. (Must submit within April)
 
-- **Huanxia Wei**, Quan Zhou, Reng Mo, Chengyi Wu, Qing Jia\*, Zhigang Yang, Aerodynamic of Hybrid Wing Body aircraft, Part 1: Aerodynamic Forces and Vortices, **Preparing** for *Aerospace Science and Technology*, 2025.
+- Dehua Wang, Chao Xia\*, **Huanxia Wei**, Qing Jia, Zhigang Yang, Effects of Diffuser and Rear Slanted Angles on the Aerodynamics of a Two-Vehicle Platoon, **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2025. (Plan to submit within April)
 
-- **Huanxia Wei**, Quan Zhou, Reng Mo, Chengyi Wu, Qing Jia\*, Zhigang Yang, Aerodynamic of Hybrid Wing Body aircraft, Part 2: Stability based on Coubined and Decoupled Dynamic Derivatives, **Preparing** for *Aerospace Science and Technology*, 2025.
 
-- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on Slipstream of a High-speed Train, **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
+- **Huanxia Wei**, Quan Zhou, Reng Mo, Chengyi Wu, Qing Jia\*, Zhigang Yang, Aerodynamic of Hybrid Wing Body aircraft, Part 1: Aerodynamic Forces and Vortices, **Preparing** for *Aerospace Science and Technology*, 2025. (Plan to submit before August)
 
-- **Huanxia Wei**, Mengqi Zhang\*, Flow over Dimpled Plate: Unsteady Flow Patterns, Coherent Structures, and Skin Friction Reduction, **Preparing** for *Journal of Fluid Mechanics*, 2025.
+- **Huanxia Wei**, Quan Zhou, Reng Mo, Chengyi Wu, Qing Jia\*, Zhigang Yang, Aerodynamic of Hybrid Wing Body aircraft, Part 2: Stability based on Coubined and Decoupled Dynamic Derivatives, **Preparing** for *Aerospace Science and Technology*, 2025. (Plan to submit before August)
 
-- Sihan Liu, Dejian Meng\*, Shuai Zhang, **Huanxia Wei**, Lijun Zhang, Construction of Active Road Noise Control System based on Virtual Reference Signal, **Preparing** for *Applied Acoustics*, 2025.
+- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on Slipstream of a High-speed Train, **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2025. (Plan to submit before September)
 
-- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on Wake Topology of a High-speed Train based on 3D SPOD, **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
+- **Huanxia Wei**, Mengqi Zhang\*, Flow over Dimpled Plate: Unsteady Flow Patterns, Coherent Structures, and Skin Friction Reduction, **Preparing** for *Journal of Fluid Mechanics*, 2025. (Must submit before September)
 
-- Fuqiang Luo, Sichong Huang, **Huanxia Wei\***, Balanced and Unbalanced Wall Modelling for Large Eddy Simulation: Numerical Method and Validation, **Preparing** for *Physics of Fluids*, 2025.
+- Sihan Liu, Dejian Meng\*, Shuai Zhang, **Huanxia Wei**, Lijun Zhang, Construction of Active Road Noise Control System based on Virtual Reference Signal, **Preparing** for *Applied Acoustics*, 2025. (Okay fine...)
+
+- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on Wake Topology of a High-speed Train based on 3D SPOD, **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2025. (Plan to submit before September)
+
+- Fuqiang Luo, Sichong Huang, **Huanxia Wei\***, Balanced and Unbalanced Wall Modelling for Large Eddy Simulation: Numerical Method and Validation, **Preparing** for *Physics of Fluids*, 2025. (Plan to submit before September)
 
 
 # 💬 Academic Services
@@ -125,7 +128,7 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 - **Journal Peer Reviewer** (10 manuscripts), [Proceedings of the Institution of Mechanical Engineers Part D: Journal of Automobile Engineering](https://journals.sagepub.com/home/pid), (Q3, IF=1.5).
 
-- **Journal Peer Reviewer**, [Automotive Innovation](https://link.springer.com/journal/42154), (Q1, IF=4.8).
+- **Journal Peer Reviewer** (3 manuscripts), [Automotive Innovation](https://link.springer.com/journal/42154), (Q1, IF=4.8).
 
 - **Teaching Assistant**, "Bachelor Thesis" (3 undergraduates), School of Automobile Studies, Tongji University.
 
