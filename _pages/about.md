@@ -93,11 +93,13 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 - Menglei Li, Bin An, Mingbo Sun, Peibo Li, **Huanxia Wei**, Jie Sun, Yicun Wang, Huangwei Zhang\*, Supersonic Flame Stabilization in a Composite Combustor with Cavity and Backward-facing Step, **R0 Under Review**, *Combustion and Flame*, 2025.
 
-- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/HST_Turbulence_PartOne_Forces.pdf), **Submitted** to *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
+- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/HST_Turbulence_PartOne_Forces.pdf), **R0 Under Review** to *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
+
+- Bowen Liang, **Huanxia Wei**, Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Explainable Machine Learning for Fuel Cell Performance Prediction: A Comparative SHAP Analysis of Random Forest, XGBoost, SVM, and Neural Networks, **Submitted** to *Energy Conversion and Management*, 2025.
 
 - **Huanxia Wei**, Chao Xia\*, Yanhong Lu, Yajun Fan, Zhigang Yang, Dynamic Modes and Topology Switching in the Bi-stable Turbulent Wake Behind a Rectangular Flat-back Ahmed Bluff Body, **Preparing** for *Physics of Fluids*, 2025.
 
-- Fuqiang Luo, Sichong Huang, **Huanxia Wei\***, Wall-modeled Large-eddy simulation of flow noise from turbulent flow past a cylinder at Re=3900, **Preparing** for *Physics of Fluids*, 2025.
+- Fuqiang Luo, Sichong Huang, **Huanxia Wei\***, Qing Jia, Zhigang Yang, Wall-Modeled Large-Eddy Simulation of Hydrodynamic Noise from Turbulent Flow Past a Cylinder at subcritical Reynolds number: Hydraulics, Underwater Acoustics, and Surface Mesh Mismatch, **Preparing** for *Physics of Fluids*, 2025.
 
 - **Huanxia Wei**, Quan Zhou, Reng Mo, Chengyi Wu, Qing Jia\*, Zhigang Yang, Aerodynamic of Hybrid Wing Body aircraft, Part 1: Aerodynamic Forces and Vortices, **Preparing** for *Aerospace Science and Technology*, 2025.
 
@@ -107,7 +109,7 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 - **Huanxia Wei**, Mengqi Zhang\*, Flow over Dimpled Plate: Unsteady Flow Patterns, Coherent Structures, and Skin Friction Reduction, **Preparing** for *Journal of Fluid Mechanics*, 2025.
 
-- Sihan Liu, Dejian Meng\*, Shuai Zhang, **Huanxia Wei**, Lijun Zhang, Construction of active road noise control system based on virtual reference signal, **Preparing** for *Applied Acoustics*, 2025.
+- Sihan Liu, Dejian Meng\*, Shuai Zhang, **Huanxia Wei**, Lijun Zhang, Construction of Active Road Noise Control System based on Virtual Reference Signal, **Preparing** for *Applied Acoustics*, 2025.
 
 - **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on Wake Topology of a High-speed Train based on 3D SPOD, **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
 
