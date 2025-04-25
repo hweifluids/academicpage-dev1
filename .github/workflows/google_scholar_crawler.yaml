@@ -20,6 +20,7 @@ jobs:
     - name: Run scholar crawler
       run: |
         cd ./google_scholar_crawler
+        ls
         python3 main.py
     - name: End py, start git
       run: echo "<<< main.py complete" 
