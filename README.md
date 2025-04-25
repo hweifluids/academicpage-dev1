@@ -9,7 +9,9 @@ AcadHomepage
 [![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  
 </div>
 
-<p align="center">A Modern and Responsive Academic Personal Homepage, available at [Huanxia Wei's homepage](https://cfd.autos)</p>
+<p align="center">Huanxia Wei's Academic Personal Homepage (Self-use purpose)</p>
+
+Available at [Huanxia Wei's homepage](https://cfd.autos)
 
 Forked from: [AcadHomePage](https://github.com/RayeRen)
 
