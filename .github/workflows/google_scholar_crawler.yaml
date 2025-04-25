@@ -13,13 +13,12 @@ jobs:
     - name: Install Reqs
       run: |
         sudo apt-get install python3-setuptools
-    
+        cd ./google_scholar_crawler
+        pip3 install -r requirements.txt
     - name: Announce start of main.py
       run: echo ">>> running main.py at $(date)"
     - name: Run scholar crawler
       run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
         python3 main.py
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
