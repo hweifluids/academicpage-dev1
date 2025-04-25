@@ -1,4 +1,4 @@
-print("starting main.py")
+print("SSSSStarting main.py")
 
 from scholarly import scholarly
 import jsonpickle
