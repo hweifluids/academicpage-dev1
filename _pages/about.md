@@ -25,9 +25,11 @@ Before joining UoM, he first graduted from CDHAW, **Tongji** University with a b
 
 His research interest includes aerodynamics and fluid mechanics. On one hand, he employs DNS-based high-order spectral element method (SEM), mainly Nek5000, to solve basic fluid mechanics problems, and on the other hand, he also uses commercial CFD tools like Star-CCM+ to simulate engineering cases like automobiles, eVTOLs, and bicycle frameworks. Additionally, he is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). He is the mantainer of py3DFTLE-GPU library. On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
 
-He has little citation     <a href="https://scholar.google.com/citations?user=5szoCzkAAAAJ">
-      <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhweifluids%2Facademicpage-dev1%2Fgoogle_scholar_crawler%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar">
-    </a>.
+He has little citation     <a href="https://scholar.google.com/citations?user=5szoCzkAAAAJ" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhweifluids%2Facademicpage-dev1%2Fgoogle_scholar_crawler%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar" style="border: none;">
+</a>
+
+
 
 
 # 📖 Educations
