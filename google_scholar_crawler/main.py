@@ -1,10 +1,10 @@
+print("starting main.py")
+
 from scholarly import scholarly
 import jsonpickle
 import json
 from datetime import datetime
 import os
-
-print("starting main.py")
 
 author: dict = scholarly.search_author_id('5szoCzkAAAAJ')
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
