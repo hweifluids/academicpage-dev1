@@ -13,6 +13,4 @@ AcadHomepage
 
 Forked from: [AcadHomePage](https://github.com/RayeRen)
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+Nobody cares.
