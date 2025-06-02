@@ -23,7 +23,7 @@ Huanxia is an enrolled PhD student at the Aerodynamics Research Group at the Sch
 
 Before joining UoM, he first graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (SAWTC). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis. He worked at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant. Later, he worked at TenFong Technology (Shenzhen) Co., Ltd. (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA solvers and related post-processors.
 
-His research interest includes aerodynamics and fluid mechanics. On one hand, he employs DNS-based high-order spectral element method (SEM), mainly Nek5000, to solve basic fluid mechanics problems, and on the other hand, he also uses commercial CFD tools like Star-CCM+ to simulate engineering cases like automobiles, eVTOLs, and bicycle frameworks. Additionally, he is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). He is the mantainer of py3DFTLE-GPU library. On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
+His research interest includes aerodynamics and fluid mechanics. On one hand, he employs DNS-based high-order spectral element method (SEM), mainly Nek5000, to solve basic fluid mechanics problems, and on the other hand, he also uses commercial CFD tools like Star-CCM+ to simulate engineering cases like automobiles, eVTOLs, and bicycle frameworks. Additionally, he is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). He is the sole developer of **PyFTLE3D** GUI toolbox for LCS research. On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
 
 He has little citation     <a href="https://scholar.google.com/citations?user=5szoCzkAAAAJ" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhweifluids%2Facademicpage-dev1%2Fgoogle_scholar_crawler%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar" style="border: none;">
@@ -59,7 +59,7 @@ He has little citation     <a href="https://scholar.google.com/citations?user=5s
 # 📝 Publications (incl. Accepted)
 <span class='anchor' id='-publications'></span>
 
-- Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/LOESS%20(PartD)%20-%20preprint.pdf), **Accepted** by *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025 (Q3, IF=1.5). 
+- Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://journals.sagepub.com/doi/10.1177/09544070251329546), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025 (Q3, IF=1.5).
 
 - Bowen Liang, **Huanxia Wei**, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Jida Men, " [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach](https://authors.elsevier.com/c/1kRgPin8Vru2T)," *Energy Conversion and Management*, 2025 (Top Journal, Q1, IF=9.9).
 
@@ -101,13 +101,15 @@ He has little citation     <a href="https://scholar.google.com/citations?user=5s
 
 - **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/HST_Turbulence_PartOne_Forces.pdf), **R1 major revision**, *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
 
-- Bowen Liang, **Huanxia Wei**, Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Explainable Machine Learning for Fuel Cell Performance Prediction: A Comparative SHAP Analysis of Random Forest, XGBoost, SVM, and Neural Networks, **Submitted** to *Energy*, 2025.
+- Bowen Liang, **Huanxia Wei**, Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Explainable Machine Learning for Fuel Cell Performance Prediction: A Comparative SHAP Analysis of Random Forest, XGBoost, SVM, and Neural Networks, **Submitted** to *International Journal of Hydrogen Energy*, 2025.
 
-- **Huanxia Wei**, Chao Xia\*, Yanhong Lu, Yajun Fan, Zhigang Yang, Dynamic Modes and Topology Switching in the Bi-stable Turbulent Wake Behind a Rectangular Flat-back Ahmed Bluff Body, **Preparing** for *Physics of Fluids*, 2025. (Must submit within April)
+- **Huanxia Wei**, Chao Xia\*, Yanhong Lu, Yajun Fan, Zhigang Yang, Dynamic Modes and Topology Switching in the Bi-stable Turbulent Wake Behind a Rectangular Flat-back Ahmed Bluff Body, **Preparing** for *Physics of Fluids*, 2025. (Must submit within June)
 
-- Fuqiang Luo, Sichong Huang, **Huanxia Wei\***, Qing Jia, Zhigang Yang, Wall-Modeled Large-Eddy Simulation of Hydrodynamic Noise from Turbulent Flow Past a Cylinder at subcritical Reynolds number: Hydrodynamics, Underwater Acoustics, and Surface Mesh Mismatch, **Preparing** for *Physics of Fluids*, 2025. (Must submit within April)
+- Fuqiang Luo, Sichong Huang, **Huanxia Wei\***, Qing Jia, Zhigang Yang, Wall-Modeled Large-Eddy Simulation of Hydrodynamic Noise from Turbulent Flow Past a Cylinder at subcritical Reynolds number: Hydrodynamics, Underwater Acoustics, and Surface Mesh Mismatch, **Preparing** for *Physics of Fluids*, 2025. (Must submit within June)
 
-- Dehua Wang, Chao Xia\*, **Huanxia Wei**, Qing Jia, Zhigang Yang, Effects of Diffuser and Rear Slanted Angles on the Aerodynamics of a Two-Vehicle Platoon, **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2025. (Plan to submit within April)
+- Dehua Wang, Chao Xia\*, **Huanxia Wei**, Qing Jia, Zhigang Yang, Effects of Diffuser and Rear Slanted Angles on the Aerodynamics of a Two-Vehicle Platoon, **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2025. (Plan to submit within June)
+
+
 
 
 - **Huanxia Wei**, Quan Zhou, Reng Mo, Chengyi Wu, Qing Jia\*, Zhigang Yang, Aerodynamic of Hybrid Wing Body aircraft, Part 1: Aerodynamic Forces and Vortices, **Preparing** for *Aerospace Science and Technology*, 2025. (Plan to submit before August)
