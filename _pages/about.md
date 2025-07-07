@@ -101,7 +101,7 @@ He has little citation     <a href="https://scholar.google.com/citations?user=5s
 
 - **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/HST_Turbulence_PartOne_Forces.pdf), **R1 major revision**, *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
 
-- Bowen Liang, **Huanxia Wei**, Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Explainable Machine Learning for Fuel Cell Performance Prediction: A Comparative SHAP Analysis of Random Forest, XGBoost, SVM, and Neural Networks, **Submitted** to *International Journal of Hydrogen Energy*, 2025.
+- Bowen Liang, **Huanxia Wei**, Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Submitted** to *Measurement*, 2025.
 
 - **Huanxia Wei**, Chao Xia\*, Yanhong Lu, Yajun Fan, Zhigang Yang, Dynamic Modes and Topology Switching in the Bi-stable Turbulent Wake Behind a Rectangular Flat-back Ahmed Bluff Body, **Preparing** for *Physics of Fluids*, 2025. (Must submit within June)
 
