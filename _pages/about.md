@@ -121,26 +121,32 @@ He has little citation     <a href="https://scholar.google.com/citations?user=5s
 # 📝 Publications In Progess (Monitored Results)
 <span class='anchor' id='-publicationsIP'></span>
 
+**---- Submitted / Finializing ----**
+
+
+
+- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train, **R1 under review**, *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
+
+- Bowen Liang, **Huanxia Wei** (co-first), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **R0 Under review**, *Measurement*, 2025.
+
+- Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-corresponding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, Numerical study on aerodynamic characteristics of electric vertical take-off and landing (eVTOL) aircraft with lift + cruise configuration, **Under review, invited**, *Automotive Engineering*, 2025.
+
 - Menglei Li, Bin An, Mingbo Sun, Peibo Li, **Huanxia Wei**, Jie Sun, Yicun Wang, Huangwei Zhang\*, Supersonic Flame Stabilization in a Composite Combustor with Cavity and Backward-facing Step, **R0 Under Review**, *Combustion and Flame*, 2025.
 
-- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/HST_Turbulence_PartOne_Forces.pdf), **R1 under review**, *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
+- **Huanxia Wei**, Chao Xia\*, Yanhong Lu, Yajun Fan, Zhigang Yang, Dynamic Modes and Topology Switching in the Bi-stable Turbulent Wake Behind a Rectangular Flat-back Ahmed Bluff Body, **Preparing** for *Physics of Fluids*, 2025. (being reviewed by professor)
 
-- Bowen Liang, **Huanxia Wei** (co-first author), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Under review**, *Measurement*, 2025.
-
-- **Huanxia Wei**, Chao Xia\*, Yanhong Lu, Yajun Fan, Zhigang Yang, Dynamic Modes and Topology Switching in the Bi-stable Turbulent Wake Behind a Rectangular Flat-back Ahmed Bluff Body, **Preparing** for *Physics of Fluids*, 2025. (reviewed by professor)
-
-- Dehua Wang, Chao Xia\*, **Huanxia Wei**, Qing Jia, Zhigang Yang, Effects of Diffuser and Rear Slanted Angles on the Aerodynamics of a Two-Vehicle Platoon, **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2025. (reviewed by professor)
+- Dehua Wang, Chao Xia\*, **Huanxia Wei**, Qing Jia, Zhigang Yang, Effects of Diffuser and Rear Slanted Angles on the Aerodynamics of a Two-Vehicle Platoon, **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2025. (being reviewed by professor)
 
 - Fuqiang Luo, Sichong Huang, **Huanxia Wei\***, Qing Jia, Zhigang Yang, Wall-Modeled Large-Eddy Simulation of Hydrodynamic Noise from Turbulent Flow Past a Cylinder at subcritical Reynolds number: Hydrodynamics, Underwater Acoustics, and Surface Mesh Mismatch, **Preparing** for *Physics of Fluids*, 2025. (polishing. Actran revision)
 
 
+- Bowen Liang, Mengzhu Shen, Jida Men, **Huanxia Wei\*** (co-corresponding), Yuan Gao\*, Tong Zhang, Haoran Liang, Heping Liang, A Lyapunov-inspired data-driven method for voltage stability assessment and evolution analysis in proton exchange membrane (PEM) fuel cells, **Preparing** for *Applied Energy*, 2025. (final polishing)
 
 
 
 
 
-
-
+**---- Preparing ----**
 
 - **Huanxia Wei**, Mengqi Zhang\*, Flow over Dimpled Plate: Unsteady Flow Patterns, Coherent Structures, and Skin Friction Reduction, **Preparing** for *Journal of Fluid Mechanics*, 2025. (Must submit before September)
 
@@ -156,9 +162,16 @@ He has little citation     <a href="https://scholar.google.com/citations?user=5s
 
 - **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on Slipstream of a High-speed Train, **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2025. (Plan to submit before September)
 
+- Yue Cao, **Huanxia Wei** (co-first), Jinghan Xu, Qing Jia, Chao Xia, Zhigang Yang. Potential-Driven Voronoi Air-Route Planning and Slime-Mold Network Optimization for Urban Air Mobility, **Preparing** for **\***.
+
+
+
+
+
+
 - Fuqiang Luo, Sichong Huang, **Huanxia Wei\***, Balanced and Unbalanced Wall Modelling for Large Eddy Simulation: Numerical Method and Validation, **Preparing** for *Physics of Fluids*, 2025. (Plan to submit before September)
 
-- Sihan Liu, Dejian Meng\*, Shuai Zhang, **Huanxia Wei**, Lijun Zhang, Construction of Active Road Noise Control System based on Virtual Reference Signal, **Preparing** for *Applied Acoustics*, 2025. (Okay fine...)
+- Sihan Liu, Dejian Meng\*, Shuai Zhang, **Huanxia Wei**, Lijun Zhang, Construction of Active Road Noise Control System based on Virtual Reference Signal, **Preparing** for *Applied Acoustics*, 2025. (written by Sihan)
 
 
 
